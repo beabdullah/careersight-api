@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-python-docx
-openai
-requests
-PyPDF2
-python-multipart
